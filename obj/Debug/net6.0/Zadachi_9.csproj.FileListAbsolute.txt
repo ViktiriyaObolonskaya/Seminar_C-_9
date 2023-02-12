@@ -1,0 +1,15 @@
+E:\Учёба GB\Seminar_C#_9\Zadachi_9\bin\Debug\net6.0\Zadachi_9.exe
+E:\Учёба GB\Seminar_C#_9\Zadachi_9\bin\Debug\net6.0\Zadachi_9.deps.json
+E:\Учёба GB\Seminar_C#_9\Zadachi_9\bin\Debug\net6.0\Zadachi_9.runtimeconfig.json
+E:\Учёба GB\Seminar_C#_9\Zadachi_9\bin\Debug\net6.0\Zadachi_9.dll
+E:\Учёба GB\Seminar_C#_9\Zadachi_9\bin\Debug\net6.0\Zadachi_9.pdb
+E:\Учёба GB\Seminar_C#_9\Zadachi_9\obj\Debug\net6.0\Zadachi_9.csproj.AssemblyReference.cache
+E:\Учёба GB\Seminar_C#_9\Zadachi_9\obj\Debug\net6.0\Zadachi_9.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба GB\Seminar_C#_9\Zadachi_9\obj\Debug\net6.0\Zadachi_9.AssemblyInfoInputs.cache
+E:\Учёба GB\Seminar_C#_9\Zadachi_9\obj\Debug\net6.0\Zadachi_9.AssemblyInfo.cs
+E:\Учёба GB\Seminar_C#_9\Zadachi_9\obj\Debug\net6.0\Zadachi_9.csproj.CoreCompileInputs.cache
+E:\Учёба GB\Seminar_C#_9\Zadachi_9\obj\Debug\net6.0\Zadachi_9.dll
+E:\Учёба GB\Seminar_C#_9\Zadachi_9\obj\Debug\net6.0\refint\Zadachi_9.dll
+E:\Учёба GB\Seminar_C#_9\Zadachi_9\obj\Debug\net6.0\Zadachi_9.pdb
+E:\Учёба GB\Seminar_C#_9\Zadachi_9\obj\Debug\net6.0\Zadachi_9.genruntimeconfig.cache
+E:\Учёба GB\Seminar_C#_9\Zadachi_9\obj\Debug\net6.0\ref\Zadachi_9.dll
